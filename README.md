@@ -7,5 +7,5 @@ I am currently attending Gyeongbuk Software High School.</br>
  <a target="_blank"><img src="https://img.shields.io/badge/HTML-F17845?style=plastic&logo=E34F26&logoColor=F17845"/></a>
  <a target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=E95420&logoColor=#95420"/></a>
 - 🤔 I want to learn--><a target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=F7DF1E&logoColor=F7DF1E"/></a>
-- 📫 How to reach me:  rokmc748500@gmail.com
+- 📫 How to reach me-->  rokmc748500@gmail.com
 
